@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.bin
+*.safetensors
+*.pt
+*.ckpt
+.DS_Store
+lm_distill/student_distilgpt2_full/
+lm_distill/teacher_gpt2/
+
